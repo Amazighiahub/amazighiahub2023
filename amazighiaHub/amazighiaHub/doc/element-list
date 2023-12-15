@@ -1,0 +1,6 @@
+com.example.hub
+com.example.hub.controller
+com.example.hub.dto
+com.example.hub.entity
+com.example.hub.repository
+com.example.hub.service
